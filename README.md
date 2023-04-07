@@ -1,5 +1,8 @@
 # Simple Weather App
 This is a simple weather app that uses HTML, CSS, and JavaScript to display the weather information of a given location.
+
+![weatherapp](https://user-images.githubusercontent.com/108632700/230658643-00843179-3539-47ee-b01c-881ed6d2596e.png)
+
 # How to Use
 * Clone the repository or download the ZIP file.
 * Open the index.html file in a web browser.
